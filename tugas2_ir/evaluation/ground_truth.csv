@@ -1,0 +1,1164 @@
+﻿query_id,doc_id,label,evidence
+Q01,D104,1,title: musik tradisi
+Q01,D434,1,title: musik tradisi
+Q01,D508,1,title: tradisional
+Q01,D510,1,title: tradisional
+Q01,D584,1,title: tradisional
+Q01,D730,1,title: keroncong
+Q01,D767,1,lead: gamelan|tradisional
+Q01,D783,1,lead: angklung|tradisional
+Q01,D796,1,title: angklung
+Q01,D966,1,lead: angklung|tradisional
+Q02,D004,1,title: lagu
+Q02,D006,1,lead: lagu|pencipta
+Q02,D019,1,title: lagu
+Q02,D023,1,title: lagu
+Q02,D027,1,title: royalti
+Q02,D028,1,title: royalti
+Q02,D029,1,title: royalti
+Q02,D030,1,title: royalti
+Q02,D033,1,title: royalti
+Q02,D039,1,title: royalti
+Q02,D042,1,title: royalti
+Q02,D064,1,title: lagu
+Q02,D065,1,title: royalti|hak cipta
+Q02,D068,1,lead: hak cipta|lagu
+Q02,D069,1,lead: lagu|pencipta|royalti
+Q02,D070,1,title: royalti
+Q02,D073,1,title: royalti
+Q02,D074,1,title: royalti
+Q02,D078,1,title: lagu
+Q02,D079,1,title: lagu
+Q02,D082,1,title: lagu
+Q02,D083,1,lead: hak cipta|pencipta
+Q02,D087,1,lead: hak cipta|lisensi
+Q02,D090,1,title: lagu
+Q02,D092,1,title: lagu
+Q02,D096,1,title: lagu
+Q02,D099,1,title: lagu
+Q02,D100,1,title: lagu
+Q02,D102,1,title: lagu
+Q02,D105,1,title: lagu
+Q02,D106,1,title: lagu
+Q02,D115,1,title: lagu
+Q02,D118,1,lead: lagu|pencipta|royalti
+Q02,D120,1,title: royalti|hak cipta
+Q02,D121,1,title: lagu
+Q02,D123,1,title: royalti
+Q02,D124,1,title: royalti
+Q02,D126,1,title: lagu
+Q02,D133,1,title: lagu
+Q02,D140,1,title: lagu
+Q02,D142,1,title: lagu
+Q02,D147,1,title: royalti
+Q02,D148,1,lead: hak cipta|royalti
+Q02,D150,1,title: royalti
+Q02,D151,1,title: royalti|lagu
+Q02,D152,1,title: hak cipta
+Q02,D160,1,title: lagu|hak cipta
+Q02,D164,1,title: royalti
+Q02,D165,1,lead: lagu|royalti
+Q02,D168,1,title: lagu
+Q02,D177,1,title: lagu|pencipta
+Q02,D178,1,title: lagu
+Q02,D179,1,title: lagu
+Q02,D183,1,title: royalti
+Q02,D184,1,title: lagu
+Q02,D185,1,lead: lagu|pencipta
+Q02,D193,1,title: lagu
+Q02,D194,1,title: royalti|lagu|pencipta
+Q02,D195,1,lead: lagu|pencipta
+Q02,D196,1,lead: lagu|pencipta
+Q02,D197,1,title: hak cipta
+Q02,D202,1,lead: hak cipta|lagu|pencipta
+Q02,D205,1,title: royalti
+Q02,D211,1,title: royalti
+Q02,D218,1,lead: lagu|pencipta
+Q02,D222,1,title: lagu
+Q02,D223,1,title: royalti|lagu
+Q02,D225,1,title: lagu
+Q02,D228,1,title: royalti
+Q02,D229,1,title: hak cipta
+Q02,D234,1,title: royalti
+Q02,D238,1,title: royalti
+Q02,D239,1,title: lagu
+Q02,D244,1,title: royalti
+Q02,D248,1,title: lagu
+Q02,D250,1,title: lagu
+Q02,D253,1,title: lagu
+Q02,D255,1,title: lagu
+Q02,D256,1,lead: lagu|pencipta
+Q02,D259,1,lead: lagu|pencipta
+Q02,D260,1,title: royalti
+Q02,D266,1,lead: lagu|pencipta
+Q02,D279,1,title: lagu
+Q02,D289,1,title: lagu
+Q02,D290,1,title: royalti
+Q02,D291,1,title: lagu
+Q02,D295,1,title: lagu
+Q02,D297,1,lead: lagu|pencipta
+Q02,D301,1,title: lagu
+Q02,D306,1,lead: lagu|pencipta
+Q02,D307,1,lead: lagu|pencipta
+Q02,D311,1,title: royalti|lisensi
+Q02,D315,1,title: royalti
+Q02,D317,1,title: royalti|lagu
+Q02,D319,1,title: royalti|lagu
+Q02,D327,1,title: lagu
+Q02,D330,1,title: royalti|pencipta
+Q02,D331,1,title: royalti
+Q02,D333,1,title: lagu
+Q02,D334,1,title: lagu
+Q02,D342,1,title: lagu
+Q02,D345,1,title: royalti
+Q02,D347,1,title: lagu
+Q02,D349,1,title: lagu
+Q02,D351,1,title: lagu
+Q02,D353,1,title: lagu
+Q02,D356,1,title: lagu
+Q02,D360,1,title: lagu
+Q02,D362,1,lead: hak cipta|lagu|pencipta
+Q02,D363,1,title: royalti
+Q02,D365,1,title: royalti
+Q02,D366,1,title: royalti
+Q02,D368,1,title: royalti
+Q02,D377,1,title: lagu
+Q02,D382,1,lead: lagu|pencipta
+Q02,D383,1,title: lagu|pencipta
+Q02,D384,1,title: royalti|lagu
+Q02,D388,1,title: royalti
+Q02,D392,1,title: lagu
+Q02,D398,1,title: lagu
+Q02,D409,1,title: lagu
+Q02,D410,1,title: hak cipta
+Q02,D421,1,title: lagu
+Q02,D422,1,title: royalti
+Q02,D427,1,title: lagu
+Q02,D428,1,title: lagu
+Q02,D429,1,title: royalti
+Q02,D438,1,title: lagu
+Q02,D439,1,title: royalti
+Q02,D446,1,lead: lagu|pencipta
+Q02,D447,1,lead: lagu|pencipta
+Q02,D450,1,title: royalti
+Q02,D451,1,title: royalti
+Q02,D452,1,title: royalti
+Q02,D455,1,title: lagu
+Q02,D456,1,title: lagu
+Q02,D467,1,title: lagu
+Q02,D470,1,title: royalti
+Q02,D473,1,title: royalti
+Q02,D480,1,lead: lagu|pencipta
+Q02,D482,1,lead: lagu|pencipta
+Q02,D484,1,title: lagu
+Q02,D485,1,title: royalti
+Q02,D486,1,title: royalti
+Q02,D488,1,lead: lagu|pencipta
+Q02,D490,1,title: royalti
+Q02,D496,1,title: lagu
+Q02,D497,1,title: lagu
+Q02,D501,1,title: lagu
+Q02,D516,1,lead: lagu|pencipta
+Q02,D521,1,title: royalti
+Q02,D523,1,title: royalti
+Q02,D525,1,title: royalti
+Q02,D526,1,title: lagu
+Q02,D527,1,title: lagu
+Q02,D531,1,title: lisensi
+Q02,D535,1,title: hak cipta
+Q02,D536,1,title: lagu|hak cipta
+Q02,D545,1,lead: hak cipta|lagu|pencipta
+Q02,D553,1,title: lagu
+Q02,D556,1,lead: lagu|pencipta|royalti
+Q02,D559,1,title: royalti
+Q02,D560,1,title: hak cipta
+Q02,D563,1,title: royalti
+Q02,D564,1,title: royalti
+Q02,D565,1,title: royalti|hak cipta
+Q02,D568,1,lead: lagu|royalti
+Q02,D570,1,title: lagu|pencipta
+Q02,D572,1,title: lagu
+Q02,D573,1,title: lagu
+Q02,D574,1,title: lagu
+Q02,D575,1,title: lagu
+Q02,D578,1,title: lagu
+Q02,D582,1,title: lagu
+Q02,D588,1,title: lagu
+Q02,D598,1,title: royalti
+Q02,D600,1,title: royalti
+Q02,D601,1,title: lagu
+Q02,D602,1,lead: lagu|royalti
+Q02,D604,1,title: royalti
+Q02,D606,1,title: royalti
+Q02,D624,1,title: pencipta
+Q02,D633,1,title: royalti|lagu
+Q02,D634,1,title: royalti
+Q02,D635,1,title: royalti
+Q02,D636,1,title: royalti
+Q02,D637,1,title: royalti
+Q02,D639,1,title: royalti
+Q02,D640,1,title: lagu
+Q02,D641,1,title: lagu
+Q02,D643,1,title: lagu
+Q02,D644,1,title: lagu|pencipta|hak cipta
+Q02,D655,1,title: lagu
+Q02,D660,1,lead: hak cipta|pencipta
+Q02,D667,1,title: royalti
+Q02,D668,1,title: lagu
+Q02,D670,1,title: royalti
+Q02,D674,1,title: lagu
+Q02,D676,1,title: lagu
+Q02,D677,1,title: lagu
+Q02,D678,1,title: lagu
+Q02,D680,1,title: lagu
+Q02,D681,1,title: lagu
+Q02,D686,1,title: royalti
+Q02,D687,1,title: royalti
+Q02,D688,1,title: royalti
+Q02,D689,1,title: royalti
+Q02,D690,1,title: royalti|lagu
+Q02,D691,1,title: royalti
+Q02,D692,1,title: royalti
+Q02,D694,1,title: royalti|lagu
+Q02,D700,1,title: lagu
+Q02,D705,1,title: hak cipta
+Q02,D706,1,title: lagu
+Q02,D709,1,title: hak cipta
+Q02,D710,1,title: lagu
+Q02,D713,1,title: royalti|lagu|hak cipta
+Q02,D714,1,title: royalti|lagu|pencipta|hak cipta
+Q02,D717,1,title: lagu
+Q02,D720,1,title: lagu
+Q02,D721,1,title: royalti
+Q02,D723,1,title: royalti|lagu
+Q02,D724,1,title: lagu
+Q02,D725,1,title: royalti
+Q02,D726,1,lead: hak cipta|lisensi|pencipta|royalti
+Q02,D727,1,title: royalti
+Q02,D728,1,lead: lagu|royalti
+Q02,D729,1,lead: lagu|lisensi|pencipta
+Q02,D738,1,title: lagu
+Q02,D743,1,title: lagu
+Q02,D746,1,title: royalti
+Q02,D747,1,lead: hak cipta|lagu
+Q02,D751,1,lead: lagu|pencipta
+Q02,D753,1,title: lagu
+Q02,D754,1,title: lagu
+Q02,D755,1,title: lagu
+Q02,D756,1,title: lagu
+Q02,D757,1,title: hak cipta
+Q02,D759,1,title: lagu
+Q02,D760,1,title: lagu
+Q02,D761,1,title: lagu
+Q02,D762,1,title: lagu
+Q02,D765,1,title: lagu
+Q02,D777,1,title: lagu
+Q02,D785,1,title: lagu|hak cipta
+Q02,D786,1,title: lagu
+Q02,D787,1,title: lagu
+Q02,D788,1,title: lagu
+Q02,D789,1,title: lagu
+Q02,D793,1,lead: hak cipta|lagu|royalti
+Q02,D803,1,title: lagu
+Q02,D804,1,title: lagu
+Q02,D807,1,title: royalti|lagu
+Q02,D808,1,title: lagu
+Q02,D811,1,lead: lagu|pencipta
+Q02,D813,1,title: lagu
+Q02,D814,1,title: lagu
+Q02,D815,1,title: royalti
+Q02,D816,1,title: lagu
+Q02,D817,1,title: lagu
+Q02,D818,1,title: lagu
+Q02,D819,1,title: lagu
+Q02,D820,1,title: lagu
+Q02,D821,1,title: lagu
+Q02,D823,1,title: lagu
+Q02,D824,1,title: lagu
+Q02,D829,1,title: lagu
+Q02,D832,1,title: lagu|pencipta|hak cipta
+Q02,D833,1,title: lagu
+Q02,D835,1,lead: lagu|pencipta
+Q02,D840,1,lead: lagu|pencipta
+Q02,D841,1,title: lagu
+Q02,D843,1,lead: lagu|pencipta
+Q02,D847,1,lead: lagu|pencipta
+Q02,D850,1,lead: hak cipta|lagu|pencipta
+Q02,D851,1,title: lagu
+Q02,D859,1,title: lagu
+Q02,D869,1,title: royalti
+Q02,D882,1,lead: lagu|pencipta
+Q02,D884,1,title: lagu
+Q02,D885,1,title: hak cipta
+Q02,D888,1,title: lagu
+Q02,D890,1,title: lagu
+Q02,D892,1,title: hak cipta
+Q02,D893,1,title: lagu
+Q02,D899,1,title: lagu
+Q02,D900,1,title: lagu
+Q02,D901,1,title: lagu
+Q02,D902,1,title: lagu
+Q02,D908,1,title: lagu
+Q02,D911,1,title: lagu
+Q02,D912,1,title: lagu
+Q02,D918,1,lead: hak cipta|royalti
+Q02,D925,1,title: lagu
+Q02,D926,1,title: lagu
+Q02,D928,1,lead: lagu|pencipta
+Q02,D947,1,lead: hak cipta|lagu|pencipta|royalti
+Q02,D955,1,title: lagu
+Q02,D960,1,title: lagu
+Q02,D963,1,title: lagu
+Q02,D972,1,lead: lagu|pencipta
+Q02,D978,1,title: lagu
+Q02,D992,1,title: lagu
+Q02,D995,1,title: lagu
+Q03,D017,1,lead: konser|pertunjukan musik
+Q03,D035,1,title: konser
+Q03,D043,1,title: konser
+Q03,D061,1,title: konser
+Q03,D066,1,title: konser
+Q03,D067,1,title: konser
+Q03,D076,1,title: pertunjukan musik
+Q03,D094,1,title: konser
+Q03,D096,1,title: konser
+Q03,D097,1,title: konser
+Q03,D098,1,title: konser
+Q03,D100,1,title: konser
+Q03,D101,1,title: konser
+Q03,D103,1,title: pertunjukan musik
+Q03,D107,1,title: konser
+Q03,D108,1,title: konser
+Q03,D109,1,title: konser
+Q03,D110,1,title: konser
+Q03,D116,1,title: konser
+Q03,D138,1,title: konser
+Q03,D139,1,title: konser
+Q03,D140,1,title: konser
+Q03,D141,1,title: konser
+Q03,D190,1,title: konser
+Q03,D191,1,title: konser
+Q03,D198,1,title: konser
+Q03,D222,1,title: konser
+Q03,D231,1,title: konser
+Q03,D232,1,title: konser
+Q03,D252,1,title: konser
+Q03,D253,1,title: konser
+Q03,D256,1,title: konser
+Q03,D272,1,title: konser
+Q03,D278,1,title: konser
+Q03,D279,1,title: konser
+Q03,D280,1,title: konser
+Q03,D283,1,title: konser
+Q03,D294,1,lead: konser|pertunjukan musik
+Q03,D298,1,title: konser
+Q03,D313,1,title: konser
+Q03,D322,1,title: konser
+Q03,D324,1,title: konser
+Q03,D328,1,title: konser
+Q03,D332,1,title: konser
+Q03,D337,1,title: konser
+Q03,D339,1,title: konser
+Q03,D346,1,title: konser
+Q03,D348,1,title: konser
+Q03,D361,1,title: konser
+Q03,D364,1,title: konser
+Q03,D372,1,title: konser
+Q03,D375,1,title: konser
+Q03,D376,1,title: konser
+Q03,D385,1,title: konser
+Q03,D386,1,title: konser
+Q03,D387,1,lead: konser|pertunjukan musik
+Q03,D397,1,title: konser
+Q03,D398,1,title: konser
+Q03,D400,1,title: konser
+Q03,D401,1,title: konser
+Q03,D431,1,title: konser
+Q03,D435,1,title: konser
+Q03,D436,1,title: konser
+Q03,D454,1,title: konser
+Q03,D460,1,title: konser
+Q03,D468,1,title: konser
+Q03,D478,1,title: konser
+Q03,D479,1,title: konser
+Q03,D480,1,title: konser
+Q03,D494,1,title: konser
+Q03,D513,1,title: konser
+Q03,D546,1,title: konser
+Q03,D553,1,title: konser
+Q03,D566,1,title: konser
+Q03,D586,1,title: konser
+Q03,D598,1,title: konser
+Q03,D607,1,title: konser
+Q03,D608,1,title: konser
+Q03,D625,1,title: konser
+Q03,D628,1,title: konser
+Q03,D646,1,title: konser
+Q03,D654,1,title: konser
+Q03,D663,1,title: konser
+Q03,D669,1,lead: konser|pertunjukan musik
+Q03,D673,1,title: konser
+Q03,D679,1,lead: konser|panggung musik
+Q03,D695,1,title: konser
+Q03,D697,1,title: konser
+Q03,D710,1,title: konser
+Q03,D733,1,title: konser
+Q03,D738,1,title: konser
+Q03,D752,1,title: konser
+Q03,D763,1,title: konser
+Q03,D772,1,title: konser
+Q03,D775,1,lead: konser|pertunjukan musik
+Q03,D776,1,title: konser
+Q03,D779,1,title: konser
+Q03,D782,1,lead: konser|pertunjukan musik
+Q03,D797,1,title: konser
+Q03,D805,1,title: konser
+Q03,D810,1,title: konser
+Q03,D815,1,title: konser
+Q03,D845,1,title: konser
+Q03,D861,1,title: konser
+Q03,D862,1,title: konser
+Q03,D863,1,title: konser
+Q03,D864,1,title: konser
+Q03,D865,1,title: konser
+Q03,D866,1,title: konser
+Q03,D876,1,lead: konser|pertunjukan musik
+Q03,D891,1,title: konser
+Q03,D894,1,title: konser
+Q03,D895,1,title: konser
+Q03,D907,1,title: konser
+Q03,D933,1,title: konser
+Q03,D936,1,title: pertunjukan musik
+Q03,D949,1,title: konser
+Q03,D950,1,title: konser
+Q03,D954,1,title: konser
+Q03,D959,1,title: konser
+Q03,D960,1,title: konser
+Q03,D965,1,title: konser
+Q03,D975,1,title: konser
+Q03,D979,1,title: konser
+Q03,D981,1,title: konser
+Q03,D983,1,title: konser
+Q03,D984,1,title: konser
+Q04,D001,1,title: album|rilis album
+Q04,D007,1,title: album
+Q04,D011,1,title: single
+Q04,D047,1,title: album
+Q04,D064,1,title: lagu baru
+Q04,D090,1,title: single
+Q04,D102,1,title: album
+Q04,D114,1,title: album
+Q04,D126,1,lead: album|lagu baru
+Q04,D128,1,title: album
+Q04,D132,1,title: album
+Q04,D133,1,lead: album|single
+Q04,D154,1,lead: singel|single
+Q04,D155,1,lead: album|lagu baru
+Q04,D156,1,title: album
+Q04,D157,1,title: album
+Q04,D182,1,lead: album|single
+Q04,D189,1,title: single
+Q04,D204,1,title: album
+Q04,D206,1,title: album
+Q04,D210,1,title: album
+Q04,D217,1,title: single
+Q04,D218,1,title: single
+Q04,D220,1,lead: album|lagu baru
+Q04,D226,1,title: album
+Q04,D230,1,title: album
+Q04,D235,1,lead: album|rilis album
+Q04,D251,1,title: album
+Q04,D255,1,title: lagu baru
+Q04,D270,1,title: single
+Q04,D274,1,title: album
+Q04,D299,1,title: album
+Q04,D314,1,title: single
+Q04,D326,1,title: album
+Q04,D327,1,title: lagu baru
+Q04,D335,1,title: album
+Q04,D338,1,title: single
+Q04,D350,1,title: album
+Q04,D353,1,title: album
+Q04,D356,1,title: lagu baru
+Q04,D367,1,title: album
+Q04,D369,1,title: single
+Q04,D376,1,lead: album|single
+Q04,D377,1,lead: lagu baru|single
+Q04,D392,1,title: lagu baru
+Q04,D395,1,title: album
+Q04,D403,1,title: album
+Q04,D416,1,title: single
+Q04,D417,1,title: single
+Q04,D423,1,title: album
+Q04,D424,1,lead: album|lagu baru|single
+Q04,D437,1,title: single
+Q04,D464,1,title: album
+Q04,D466,1,title: album
+Q04,D469,1,title: album
+Q04,D477,1,title: single
+Q04,D492,1,title: album
+Q04,D499,1,lead: lagu baru|single
+Q04,D501,1,title: lagu baru
+Q04,D506,1,title: album
+Q04,D512,1,title: single
+Q04,D522,1,title: album|rilis album
+Q04,D527,1,title: lagu baru
+Q04,D529,1,title: album
+Q04,D532,1,title: album
+Q04,D533,1,title: album
+Q04,D534,1,title: album
+Q04,D542,1,title: single
+Q04,D558,1,title: single
+Q04,D567,1,title: single
+Q04,D575,1,title: lagu baru
+Q04,D582,1,title: lagu baru
+Q04,D583,1,title: album
+Q04,D588,1,title: lagu baru
+Q04,D590,1,title: single
+Q04,D591,1,title: single
+Q04,D615,1,lead: album|lagu baru|single
+Q04,D616,1,title: album
+Q04,D626,1,title: single
+Q04,D627,1,title: single
+Q04,D638,1,title: album
+Q04,D643,1,title: lagu baru
+Q04,D653,1,title: single
+Q04,D656,1,title: album|single
+Q04,D662,1,lead: album|single
+Q04,D666,1,title: single
+Q04,D677,1,title: lagu baru
+Q04,D681,1,title: lagu baru
+Q04,D684,1,title: album
+Q04,D700,1,title: album
+Q04,D712,1,lead: album|singel
+Q04,D720,1,title: album
+Q04,D735,1,lead: album|single
+Q04,D736,1,title: single
+Q04,D747,1,title: album
+Q04,D781,1,title: single
+Q04,D792,1,title: single
+Q04,D833,1,title: lagu baru
+Q04,D835,1,title: album
+Q04,D838,1,lead: album|single
+Q04,D839,1,title: album|rilis album
+Q04,D853,1,title: album
+Q04,D859,1,title: lagu baru
+Q04,D880,1,title: album|rilis album
+Q04,D881,1,lead: album|lagu baru|single
+Q04,D888,1,title: lagu baru
+Q04,D893,1,lead: album|single
+Q04,D896,1,title: single
+Q04,D911,1,title: lagu baru
+Q04,D913,1,title: single
+Q04,D915,1,title: single
+Q04,D921,1,title: single
+Q04,D924,1,title: album
+Q04,D926,1,title: lagu baru
+Q04,D943,1,title: album
+Q04,D951,1,title: single
+Q04,D958,1,title: album
+Q04,D980,1,lead: album|single
+Q04,D988,1,title: single
+Q04,D993,1,lead: album|singel
+Q05,D003,1,title: synchronize fest
+Q05,D004,1,title: pestapora
+Q05,D009,1,title: pestapora
+Q05,D010,1,lead: festival|festival musik
+Q05,D017,1,title: festival
+Q05,D048,1,title: java jazz
+Q05,D049,1,title: java jazz
+Q05,D050,1,title: java jazz
+Q05,D052,1,title: festival musik|festival|pestapora
+Q05,D053,1,title: pestapora
+Q05,D055,1,title: festival|java jazz
+Q05,D062,1,title: festival musik|festival
+Q05,D066,1,lead: festival|festival musik
+Q05,D081,1,title: festival musik|festival
+Q05,D085,1,lead: festival|festival musik
+Q05,D104,1,lead: festival|festival musik
+Q05,D116,1,title: festival
+Q05,D146,1,title: pestapora
+Q05,D159,1,lead: festival|festival musik
+Q05,D167,1,title: java jazz
+Q05,D172,1,title: festival musik|festival
+Q05,D173,1,title: synchronize fest
+Q05,D174,1,title: synchronize fest
+Q05,D175,1,title: festival musik|festival
+Q05,D179,1,title: pestapora
+Q05,D180,1,title: pestapora
+Q05,D187,1,title: festival|java jazz
+Q05,D198,1,lead: festival|festival musik
+Q05,D208,1,lead: festival|festival musik
+Q05,D213,1,title: pestapora
+Q05,D214,1,title: pestapora
+Q05,D215,1,title: pestapora
+Q05,D245,1,title: festival
+Q05,D246,1,title: festival musik|festival
+Q05,D258,1,title: pestapora
+Q05,D264,1,lead: festival|festival musik
+Q05,D265,1,lead: festival|festival musik
+Q05,D271,1,lead: festival|festival musik
+Q05,D284,1,title: pestapora
+Q05,D294,1,title: festival musik|festival
+Q05,D300,1,lead: festival|festival musik
+Q05,D301,1,lead: festival|festival musik|pestapora
+Q05,D306,1,title: festival
+Q05,D308,1,title: festival musik|festival
+Q05,D309,1,title: synchronize fest
+Q05,D320,1,lead: festival|festival musik
+Q05,D340,1,lead: festival|festival musik
+Q05,D343,1,lead: festival|festival musik
+Q05,D344,1,lead: festival|festival musik
+Q05,D373,1,lead: festival|festival musik
+Q05,D374,1,title: festival musik|festival
+Q05,D379,1,title: festival|java jazz
+Q05,D393,1,title: pestapora
+Q05,D407,1,title: festival|java jazz
+Q05,D408,1,title: festival|java jazz
+Q05,D409,1,title: java jazz
+Q05,D426,1,title: pestapora
+Q05,D433,1,lead: festival|festival musik
+Q05,D434,1,lead: festival|festival musik
+Q05,D443,1,title: festival|java jazz
+Q05,D461,1,title: pestapora
+Q05,D462,1,title: pestapora
+Q05,D475,1,title: festival
+Q05,D515,1,title: festival musik|festival
+Q05,D527,1,title: synchronize fest
+Q05,D555,1,title: synchronize fest
+Q05,D578,1,lead: festival|festival musik|synchronize fest
+Q05,D579,1,title: synchronize fest
+Q05,D580,1,title: synchronize fest
+Q05,D589,1,lead: festival|festival musik
+Q05,D593,1,title: festival
+Q05,D594,1,title: java jazz
+Q05,D605,1,title: festival
+Q05,D617,1,lead: festival|festival musik|synchronize fest
+Q05,D618,1,title: synchronize fest
+Q05,D619,1,title: synchronize fest
+Q05,D620,1,title: java jazz
+Q05,D621,1,title: java jazz
+Q05,D623,1,lead: festival|festival musik
+Q05,D629,1,title: festival musik|festival
+Q05,D649,1,title: pestapora
+Q05,D652,1,title: synchronize fest
+Q05,D665,1,title: festival
+Q05,D678,1,lead: festival|festival musik
+Q05,D699,1,title: festival
+Q05,D716,1,lead: festival|festival musik
+Q05,D740,1,lead: festival|festival musik
+Q05,D741,1,lead: festival|festival musik|synchronize fest
+Q05,D758,1,title: pestapora
+Q05,D770,1,title: java jazz
+Q05,D778,1,lead: festival|festival musik
+Q05,D784,1,lead: festival|festival musik|pestapora
+Q05,D800,1,lead: festival|festival musik
+Q05,D830,1,title: java jazz
+Q05,D834,1,lead: festival|festival musik
+Q05,D848,1,title: java jazz
+Q05,D849,1,lead: festival|festival musik|java jazz
+Q05,D856,1,title: festival musik|festival
+Q05,D857,1,title: festival
+Q05,D877,1,lead: festival|festival musik
+Q05,D878,1,lead: festival|festival musik
+Q05,D880,1,lead: festival|festival musik
+Q05,D903,1,lead: festival|festival musik|synchronize fest
+Q05,D911,1,title: festival
+Q05,D935,1,title: festival
+Q05,D944,1,title: festival
+Q05,D986,1,title: festival musik|festival
+Q06,D018,1,lead: industri musik|streaming musik
+Q06,D061,1,title: industri musik
+Q06,D083,1,title: industri musik
+Q06,D115,1,title: industri rekaman
+Q06,D145,1,title: industri musik
+Q06,D166,1,title: industri musik
+Q06,D238,1,title: industri musik
+Q06,D241,1,title: industri musik
+Q06,D243,1,title: industri musik
+Q06,D269,1,title: industri musik
+Q06,D277,1,title: industri musik
+Q06,D300,1,title: industri musik
+Q06,D353,1,lead: industri musik|streaming musik
+Q06,D418,1,title: industri musik
+Q06,D452,1,title: industri musik
+Q06,D459,1,title: industri musik
+Q06,D493,1,title: industri musik
+Q06,D556,1,title: industri musik
+Q06,D560,1,title: industri musik
+Q06,D602,1,title: industri musik
+Q06,D661,1,title: industri musik
+Q06,D671,1,title: industri musik
+Q06,D744,1,title: industri musik
+Q06,D748,1,title: industri musik
+Q06,D775,1,title: industri musik
+Q06,D811,1,title: industri musik
+Q06,D847,1,title: industri musik
+Q06,D849,1,title: industri musik
+Q06,D890,1,title: industri musik
+Q06,D893,1,lead: industri musik|streaming musik
+Q06,D920,1,title: industri musik
+Q06,D953,1,title: industri musik
+Q06,D968,1,lead: industri musik|label musik
+Q07,D001,1,title: album
+Q07,D007,1,title: musik indonesia|album
+Q07,D008,1,lead: musik indonesia|perkembangan musik
+Q07,D012,1,title: musik indonesia
+Q07,D013,1,title: musik indonesia
+Q07,D018,1,title: musik indonesia
+Q07,D038,1,lead: musik indonesia|perkembangan musik
+Q07,D045,1,lead: album|musik indonesia
+Q07,D047,1,title: album
+Q07,D050,1,title: musik indonesia
+Q07,D088,1,title: musik indonesia
+Q07,D096,1,lead: album|musik indonesia
+Q07,D099,1,lead: album|musik indonesia
+Q07,D100,1,lead: album|musik indonesia
+Q07,D102,1,title: album
+Q07,D108,1,title: musik indonesia
+Q07,D110,1,lead: album|musik indonesia
+Q07,D112,1,title: musik indonesia
+Q07,D114,1,title: album
+Q07,D128,1,title: album
+Q07,D132,1,title: album
+Q07,D152,1,title: musik indonesia
+Q07,D156,1,title: album
+Q07,D157,1,title: album
+Q07,D202,1,lead: komposer|musik indonesia|sejarah musik
+Q07,D204,1,title: album
+Q07,D206,1,title: album
+Q07,D207,1,title: musik indonesia
+Q07,D210,1,title: album
+Q07,D216,1,lead: album|musik indonesia
+Q07,D221,1,lead: album|musik indonesia
+Q07,D224,1,title: musik indonesia
+Q07,D226,1,title: album
+Q07,D229,1,title: komposer
+Q07,D230,1,title: album
+Q07,D233,1,title: musik indonesia
+Q07,D235,1,lead: album|musik indonesia
+Q07,D240,1,lead: album|musik indonesia
+Q07,D243,1,title: musik indonesia
+Q07,D251,1,title: album
+Q07,D254,1,lead: album|komposer
+Q07,D257,1,title: musik indonesia
+Q07,D260,1,title: komposer
+Q07,D261,1,title: musik indonesia
+Q07,D263,1,lead: musik indonesia|perkembangan musik|sejarah musik
+Q07,D274,1,title: album
+Q07,D297,1,lead: album|musik indonesia
+Q07,D299,1,title: album
+Q07,D309,1,title: musik indonesia
+Q07,D326,1,title: album
+Q07,D329,1,title: musik indonesia
+Q07,D335,1,title: album
+Q07,D350,1,title: album
+Q07,D353,1,title: album
+Q07,D362,1,title: musik indonesia
+Q07,D367,1,title: album
+Q07,D376,1,lead: album|musik indonesia
+Q07,D380,1,lead: album|musik indonesia
+Q07,D382,1,title: musik indonesia
+Q07,D395,1,title: album
+Q07,D403,1,title: album
+Q07,D406,1,lead: album|musik indonesia
+Q07,D417,1,lead: album|musik indonesia
+Q07,D423,1,title: album
+Q07,D436,1,lead: album|musik indonesia
+Q07,D446,1,title: musik indonesia
+Q07,D464,1,title: album
+Q07,D466,1,title: album
+Q07,D469,1,title: album
+Q07,D479,1,lead: komposer|musik indonesia
+Q07,D492,1,title: album
+Q07,D502,1,lead: komposer|musik indonesia
+Q07,D506,1,title: album
+Q07,D507,1,lead: album|musik indonesia
+Q07,D509,1,title: musik indonesia
+Q07,D521,1,lead: komposer|musik indonesia
+Q07,D522,1,title: album
+Q07,D529,1,title: album
+Q07,D532,1,title: album
+Q07,D533,1,title: album
+Q07,D534,1,title: album
+Q07,D539,1,lead: album|musik indonesia
+Q07,D540,1,title: musik indonesia
+Q07,D556,1,title: musik indonesia
+Q07,D580,1,lead: album|musik indonesia
+Q07,D583,1,title: album
+Q07,D597,1,title: perkembangan musik
+Q07,D616,1,title: album
+Q07,D638,1,title: album
+Q07,D651,1,lead: musik indonesia|perkembangan musik
+Q07,D656,1,title: album
+Q07,D684,1,title: album
+Q07,D700,1,title: album
+Q07,D720,1,title: album
+Q07,D730,1,lead: musik indonesia|sejarah musik
+Q07,D735,1,title: musik indonesia
+Q07,D737,1,title: sejarah musik
+Q07,D745,1,title: musik indonesia
+Q07,D747,1,title: album
+Q07,D755,1,title: komposer
+Q07,D773,1,title: musik indonesia
+Q07,D806,1,title: musik indonesia
+Q07,D835,1,title: album
+Q07,D839,1,title: album
+Q07,D843,1,lead: komposer|musik indonesia
+Q07,D847,1,lead: album|musik indonesia
+Q07,D850,1,title: musik indonesia
+Q07,D853,1,title: album
+Q07,D880,1,title: album
+Q07,D899,1,lead: album|musik indonesia
+Q07,D903,1,title: musik indonesia
+Q07,D914,1,lead: musik indonesia|perkembangan musik
+Q07,D919,1,title: musik indonesia
+Q07,D924,1,title: album
+Q07,D943,1,title: album
+Q07,D958,1,title: album
+Q07,D966,1,title: musik indonesia
+Q07,D974,1,lead: album|sejarah musik
+Q07,D977,1,title: musik indonesia
+Q07,D984,1,lead: album|musik indonesia
+Q08,D139,1,title: dangdut
+Q08,D161,1,title: dangdut
+Q08,D163,1,title: dangdut
+Q08,D218,1,lead: dangdut|koplo
+Q08,D425,1,title: dangdut
+Q08,D472,1,title: dangdut
+Q08,D504,1,title: dangdut
+Q08,D520,1,title: koplo
+Q08,D567,1,title: dangdut
+Q08,D708,1,title: dangdut
+Q08,D804,1,title: dangdut
+Q09,D002,1,title: musisi
+Q09,D003,1,lead: grup musik|musisi|penyanyi
+Q09,D005,1,lead: musisi|penyanyi
+Q09,D009,1,lead: band|musisi
+Q09,D013,1,lead: musisi|penyanyi
+Q09,D016,1,title: musisi
+Q09,D021,1,lead: musisi|penyanyi
+Q09,D022,1,lead: musisi|penyanyi
+Q09,D023,1,title: musisi
+Q09,D025,1,title: band
+Q09,D026,1,lead: band|grup musik
+Q09,D031,1,title: penyanyi
+Q09,D032,1,title: band
+Q09,D034,1,title: band
+Q09,D039,1,title: musisi
+Q09,D040,1,title: band
+Q09,D044,1,lead: grup musik|musisi
+Q09,D049,1,title: musisi
+Q09,D050,1,lead: grup musik|musisi
+Q09,D051,1,title: musisi
+Q09,D053,1,title: musisi
+Q09,D056,1,title: musisi
+Q09,D058,1,title: musisi
+Q09,D059,1,lead: musisi|penyanyi
+Q09,D061,1,lead: musisi|penyanyi
+Q09,D064,1,lead: band|grup musik
+Q09,D068,1,lead: musisi|penyanyi
+Q09,D078,1,title: musisi
+Q09,D081,1,title: musisi
+Q09,D082,1,title: musisi
+Q09,D087,1,title: musisi
+Q09,D089,1,title: musisi
+Q09,D090,1,lead: musisi|penyanyi
+Q09,D091,1,title: musisi
+Q09,D100,1,lead: musisi|penyanyi
+Q09,D109,1,title: musisi
+Q09,D111,1,title: musisi
+Q09,D112,1,lead: musisi|penyanyi
+Q09,D114,1,lead: grup musik|musisi
+Q09,D116,1,title: penyanyi
+Q09,D117,1,title: musisi
+Q09,D119,1,title: musisi
+Q09,D121,1,lead: musisi|penyanyi
+Q09,D122,1,lead: musisi|penyanyi
+Q09,D126,1,lead: band|grup musik
+Q09,D130,1,lead: musisi|penyanyi
+Q09,D148,1,lead: band|musisi
+Q09,D150,1,title: musisi
+Q09,D154,1,lead: band|grup musik
+Q09,D155,1,title: musisi
+Q09,D160,1,title: musisi
+Q09,D162,1,title: musisi|penyanyi
+Q09,D169,1,lead: musisi|penyanyi
+Q09,D185,1,title: musisi
+Q09,D186,1,lead: musisi|penyanyi
+Q09,D187,1,lead: musisi|penyanyi
+Q09,D189,1,lead: musisi|penyanyi
+Q09,D190,1,title: band
+Q09,D191,1,title: band
+Q09,D192,1,lead: grup musik|musisi
+Q09,D193,1,title: musisi
+Q09,D196,1,lead: grup musik|musisi|penyanyi
+Q09,D197,1,title: musisi
+Q09,D199,1,title: musisi
+Q09,D206,1,lead: grup musik|penyanyi
+Q09,D212,1,lead: musisi|penyanyi
+Q09,D213,1,title: band
+Q09,D220,1,lead: grup musik|musisi
+Q09,D221,1,lead: grup musik|musisi
+Q09,D225,1,title: musisi
+Q09,D227,1,title: musisi
+Q09,D228,1,title: musisi
+Q09,D229,1,lead: musisi|penyanyi
+Q09,D230,1,lead: grup musik|musisi
+Q09,D232,1,title: musisi
+Q09,D233,1,lead: musisi|penyanyi
+Q09,D235,1,lead: band|grup musik
+Q09,D236,1,title: musisi
+Q09,D240,1,lead: band|musisi|penyanyi
+Q09,D242,1,lead: musisi|penyanyi
+Q09,D243,1,lead: musisi|penyanyi
+Q09,D245,1,lead: musisi|penyanyi
+Q09,D254,1,title: penyanyi
+Q09,D262,1,title: musisi
+Q09,D264,1,title: musisi
+Q09,D265,1,title: musisi
+Q09,D270,1,lead: musisi|penyanyi
+Q09,D271,1,title: musisi
+Q09,D274,1,title: musisi
+Q09,D277,1,lead: musisi|penyanyi
+Q09,D282,1,title: musisi
+Q09,D288,1,lead: grup musik|musisi
+Q09,D291,1,lead: grup musik|musisi
+Q09,D294,1,lead: musisi|penyanyi
+Q09,D295,1,lead: musisi|penyanyi
+Q09,D298,1,title: band
+Q09,D302,1,title: musisi
+Q09,D304,1,lead: musisi|penyanyi
+Q09,D305,1,title: penyanyi
+Q09,D306,1,lead: musisi|penyanyi
+Q09,D307,1,lead: musisi|penyanyi
+Q09,D308,1,lead: musisi|penyanyi
+Q09,D309,1,title: musisi
+Q09,D323,1,lead: band|penyanyi
+Q09,D324,1,lead: band|penyanyi
+Q09,D327,1,lead: musisi|penyanyi
+Q09,D328,1,lead: band|musisi|penyanyi
+Q09,D333,1,title: musisi|band
+Q09,D334,1,lead: band|musisi|penyanyi
+Q09,D335,1,lead: musisi|penyanyi
+Q09,D339,1,lead: musisi|penyanyi
+Q09,D343,1,title: musisi
+Q09,D347,1,lead: grup musik|musisi
+Q09,D352,1,lead: band|grup musik|musisi
+Q09,D354,1,lead: musisi|penyanyi
+Q09,D357,1,title: musisi
+Q09,D363,1,lead: musisi|penyanyi
+Q09,D370,1,lead: musisi|penyanyi
+Q09,D372,1,title: musisi
+Q09,D379,1,lead: musisi|penyanyi
+Q09,D380,1,lead: band|penyanyi
+Q09,D394,1,lead: musisi|penyanyi
+Q09,D397,1,title: band
+Q09,D400,1,lead: band|grup musik
+Q09,D403,1,lead: musisi|penyanyi
+Q09,D405,1,title: musisi
+Q09,D407,1,lead: musisi|penyanyi
+Q09,D408,1,lead: musisi|penyanyi
+Q09,D409,1,title: musisi
+Q09,D410,1,title: musisi
+Q09,D412,1,lead: band|musisi
+Q09,D413,1,title: musisi
+Q09,D414,1,title: band
+Q09,D415,1,title: musisi
+Q09,D419,1,lead: musisi|penyanyi
+Q09,D422,1,title: musisi
+Q09,D431,1,lead: band|penyanyi
+Q09,D433,1,lead: band|musisi
+Q09,D441,1,lead: band|musisi
+Q09,D442,1,title: musisi
+Q09,D444,1,title: musisi
+Q09,D445,1,lead: band|musisi
+Q09,D448,1,title: musisi
+Q09,D463,1,title: penyanyi
+Q09,D469,1,lead: grup musik|musisi
+Q09,D475,1,lead: band|musisi|penyanyi
+Q09,D482,1,title: musisi
+Q09,D483,1,title: musisi
+Q09,D492,1,lead: band|musisi
+Q09,D494,1,lead: grup musik|penyanyi
+Q09,D500,1,lead: grup musik|musisi
+Q09,D501,1,lead: musisi|penyanyi
+Q09,D507,1,lead: musisi|penyanyi
+Q09,D508,1,title: musisi
+Q09,D512,1,lead: band|musisi
+Q09,D514,1,title: musisi
+Q09,D527,1,title: musisi
+Q09,D542,1,title: musisi
+Q09,D548,1,lead: band|penyanyi
+Q09,D550,1,lead: musisi|penyanyi
+Q09,D551,1,title: musisi
+Q09,D554,1,title: musisi
+Q09,D555,1,lead: band|musisi|penyanyi
+Q09,D557,1,lead: musisi|penyanyi
+Q09,D562,1,title: musisi
+Q09,D564,1,lead: grup musik|musisi
+Q09,D576,1,lead: musisi|penyanyi
+Q09,D577,1,lead: musisi|penyanyi
+Q09,D579,1,lead: band|grup musik
+Q09,D580,1,lead: band|musisi
+Q09,D583,1,lead: grup musik|musisi
+Q09,D585,1,lead: musisi|penyanyi
+Q09,D586,1,lead: band|musisi
+Q09,D588,1,lead: band|musisi|penyanyi
+Q09,D589,1,lead: band|musisi
+Q09,D591,1,title: musisi
+Q09,D592,1,lead: musisi|penyanyi
+Q09,D593,1,title: musisi
+Q09,D594,1,lead: musisi|penyanyi
+Q09,D604,1,lead: band|musisi
+Q09,D605,1,title: musisi
+Q09,D606,1,lead: musisi|penyanyi
+Q09,D607,1,title: musisi
+Q09,D609,1,lead: band|grup musik
+Q09,D618,1,title: musisi
+Q09,D619,1,title: musisi
+Q09,D621,1,lead: band|musisi|penyanyi
+Q09,D622,1,title: musisi
+Q09,D623,1,lead: musisi|penyanyi
+Q09,D624,1,lead: musisi|penyanyi
+Q09,D625,1,lead: band|grup musik|musisi
+Q09,D628,1,title: musisi
+Q09,D630,1,title: musisi
+Q09,D637,1,lead: musisi|penyanyi
+Q09,D640,1,lead: band|musisi
+Q09,D647,1,lead: band|penyanyi
+Q09,D654,1,title: musisi
+Q09,D657,1,lead: musisi|penyanyi
+Q09,D658,1,title: musisi
+Q09,D659,1,title: musisi
+Q09,D660,1,title: musisi
+Q09,D661,1,lead: musisi|penyanyi
+Q09,D674,1,title: penyanyi
+Q09,D676,1,lead: musisi|penyanyi
+Q09,D681,1,lead: band|grup musik
+Q09,D687,1,title: musisi
+Q09,D697,1,title: musisi
+Q09,D699,1,title: musisi
+Q09,D701,1,title: musisi
+Q09,D702,1,title: musisi
+Q09,D704,1,lead: musisi|penyanyi
+Q09,D714,1,lead: musisi|penyanyi
+Q09,D715,1,title: musisi
+Q09,D718,1,lead: grup musik|musisi|penyanyi
+Q09,D719,1,lead: grup musik|penyanyi
+Q09,D732,1,title: musisi
+Q09,D734,1,title: musisi
+Q09,D736,1,lead: musisi|penyanyi
+Q09,D739,1,lead: musisi|penyanyi
+Q09,D740,1,title: musisi
+Q09,D741,1,title: musisi
+Q09,D743,1,lead: band|grup musik
+Q09,D748,1,title: musisi
+Q09,D749,1,title: musisi
+Q09,D752,1,lead: band|penyanyi
+Q09,D760,1,title: penyanyi
+Q09,D764,1,title: musisi
+Q09,D766,1,title: musisi
+Q09,D768,1,title: musisi
+Q09,D770,1,lead: band|grup musik
+Q09,D774,1,title: band
+Q09,D776,1,lead: band|musisi|penyanyi
+Q09,D779,1,title: musisi
+Q09,D784,1,lead: grup musik|musisi
+Q09,D790,1,title: musisi
+Q09,D793,1,lead: musisi|penyanyi
+Q09,D796,1,title: musisi
+Q09,D797,1,lead: band|musisi
+Q09,D800,1,lead: band|musisi
+Q09,D801,1,title: musisi
+Q09,D802,1,lead: band|musisi
+Q09,D805,1,lead: band|musisi
+Q09,D810,1,lead: band|musisi
+Q09,D812,1,lead: musisi|penyanyi
+Q09,D814,1,lead: band|musisi|penyanyi
+Q09,D816,1,lead: musisi|penyanyi
+Q09,D827,1,title: musisi
+Q09,D832,1,title: musisi
+Q09,D836,1,lead: band|musisi
+Q09,D837,1,title: musisi
+Q09,D839,1,lead: band|musisi
+Q09,D841,1,title: musisi
+Q09,D845,1,lead: musisi|penyanyi
+Q09,D850,1,lead: band|musisi|penyanyi
+Q09,D855,1,lead: band|penyanyi
+Q09,D867,1,lead: musisi|penyanyi
+Q09,D868,1,title: band
+Q09,D869,1,title: musisi
+Q09,D872,1,title: musisi
+Q09,D873,1,lead: musisi|penyanyi
+Q09,D875,1,title: musisi
+Q09,D879,1,lead: musisi|penyanyi
+Q09,D880,1,title: musisi
+Q09,D882,1,lead: musisi|penyanyi
+Q09,D883,1,title: musisi
+Q09,D884,1,title: musisi
+Q09,D885,1,title: penyanyi
+Q09,D886,1,title: penyanyi
+Q09,D887,1,title: musisi
+Q09,D891,1,title: band
+Q09,D894,1,title: band
+Q09,D897,1,title: grup musik
+Q09,D902,1,lead: grup musik|musisi
+Q09,D904,1,lead: musisi|penyanyi
+Q09,D905,1,title: musisi
+Q09,D906,1,lead: band|musisi
+Q09,D909,1,title: musisi
+Q09,D910,1,lead: grup musik|musisi|penyanyi
+Q09,D915,1,lead: musisi|penyanyi
+Q09,D920,1,title: musisi
+Q09,D924,1,title: penyanyi
+Q09,D927,1,title: musisi
+Q09,D928,1,lead: band|grup musik
+Q09,D929,1,title: penyanyi
+Q09,D932,1,title: musisi
+Q09,D934,1,lead: musisi|penyanyi
+Q09,D935,1,title: musisi
+Q09,D936,1,title: musisi
+Q09,D937,1,title: musisi
+Q09,D938,1,title: musisi
+Q09,D939,1,title: musisi
+Q09,D940,1,title: musisi
+Q09,D941,1,lead: band|musisi
+Q09,D944,1,title: musisi
+Q09,D945,1,title: musisi
+Q09,D961,1,lead: grup musik|penyanyi
+Q09,D965,1,lead: band|grup musik
+Q09,D968,1,title: musisi
+Q09,D969,1,title: musisi
+Q09,D973,1,title: musisi
+Q09,D975,1,title: musisi
+Q09,D980,1,lead: musisi|penyanyi
+Q09,D983,1,lead: grup musik|penyanyi
+Q09,D996,1,title: band
+Q09,D997,1,lead: band|grup musik
+Q10,D017,1,title: jazz|jazz festival
+Q10,D048,1,title: jazz|java jazz
+Q10,D049,1,title: jazz|java jazz
+Q10,D050,1,title: jazz|java jazz
+Q10,D055,1,title: jazz|java jazz|jazz festival
+Q10,D122,1,lead: java jazz|jazz
+Q10,D167,1,title: jazz|java jazz
+Q10,D187,1,title: jazz|java jazz|jazz festival
+Q10,D379,1,title: jazz|java jazz|jazz festival
+Q10,D407,1,title: jazz|java jazz|jazz festival
+Q10,D408,1,title: jazz|java jazz
+Q10,D409,1,title: jazz|java jazz
+Q10,D443,1,title: jazz|java jazz|jazz festival
+Q10,D481,1,lead: jazz|jazz festival
+Q10,D546,1,title: jazz
+Q10,D593,1,title: jazz|jazz festival
+Q10,D594,1,title: jazz|java jazz
+Q10,D620,1,title: jazz|java jazz
+Q10,D621,1,title: jazz|java jazz
+Q10,D766,1,lead: java jazz|jazz
+Q10,D770,1,title: jazz|java jazz
+Q10,D830,1,title: jazz|java jazz
+Q10,D848,1,title: jazz|java jazz
+Q10,D849,1,lead: java jazz|jazz|jazz festival
+Q10,D877,1,title: jazz
+Q10,D986,1,lead: java jazz|jazz|jazz festival
